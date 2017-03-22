@@ -1,6 +1,6 @@
 # CS52 Git Map Collaborative Coding
 
-![](images/docs/screen_shot_2016-12-19_at_7.10.02_pm_720.png)
+![](images/docs/screenshot.jpg)
 
 Now that you have a personal domain and page, let's work together on a map. The purpose here is to introduce you to Git Flow which we will be using from now on!
 
