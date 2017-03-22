@@ -30,6 +30,7 @@ Here's what we're going to do!
 1. 🚀 change directory to this new workspace:
 `cd git-map`
 
+🐛 if you run into trouble with messages about ssh keys you need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
 ### Start Local Webserver
 
@@ -222,7 +223,7 @@ To edit `atom ~/.gitconfig`
     name = John Doe
     email = johndoe@dali.dartmouth.edu
 [alias]
-    pullorigin="pull --rebase origin"   # tweak naming to whatever, but a nice shortcut to ensure --rebase
+    p="pull --rebase origin"   # tweak naming to whatever, but a nice shortcut to ensure --rebase
     co="checkout"
     st="status"
     br="branch"
