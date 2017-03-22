@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Costa Rica!",
+    "lat_long": [
+      9.6660971,
+      -85.0621176
+    ],
+    "year": "'21"
+  },
+  {
+    "name": "Tim",
+    "iconUrl": "images/tim_round.jpg",
+    "url": "//www.zingweb.com",
+    "message": "Hiking in the High Sierras!",
+    "lat_long": [
+      37.2320967,
+      -118.8578716
+    ],
+    "year": "11BC"
+  }
+]

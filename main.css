@@ -1,0 +1,36 @@
+html, body, #map {
+    height: 100%;
+    width: 100%;
+    background: rgb(50,50,60);
+}
+
+a, u {
+    text-decoration: none !important;
+}
+
+/* the below does a css3 round cut */
+
+.circular {
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+}
+
+.circular img {
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.info {
+    padding: 6px 10px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    text-align: right;
+}
+
+.info h4 {
+    color: #777;
+}
