@@ -149,4 +149,17 @@
     ],
     "year": "'18"
   }
+
+  {
+    "name": "Jane",
+    "iconUrl": "images/Jane.jpg",
+    "url": "//jjanelee.me",
+    "message": "Wubba lubba dub dub",
+    "lat_long": [
+      47.606209,
+      -122.332071
+    ],
+    "year": "'19"
+  }
+
 ]
