@@ -362,5 +362,18 @@
     ],
     "year": "'18"
 
-  }
+  },
+
+  {
+  "name": "Nikita Shaiva",
+  "iconUrl": "images/nikita.jpg",
+  "url": "http://nikitashaiva.me",
+  "message": "Hi!",
+  "lat_long": [
+    40.669264,
+    -74.680400
+  ],
+  "year": "'18"
+}
+
 ]
