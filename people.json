@@ -40,6 +40,17 @@
     "year": "'18"
   },
   {
+    "name": "Anish Chadalavada",
+    "iconUrl": "images/anish.jpg",
+    "url": "//anishchad.me",
+    "message": "Hi I am a big Patriots fan",
+    "lat_long": [
+      41.854009,
+      -72.827915
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Jon",
     "iconUrl": "images/jon.jpg",
     "url": "https://media.giphy.com/media/3o6ozGRXIenJ8lrjiw/giphy.gif",
