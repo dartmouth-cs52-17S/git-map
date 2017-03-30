@@ -220,6 +220,17 @@
     "year": "'18"
   },
   {
+    "name": "Jiachen",
+    "iconUrl": "images/jiachen.png",
+    "url": "//jiachenjiang.me",
+    "message": "I have no mouth but I must scream",
+    "lat_long": [
+			34.020289,
+			-117.865339
+    ],
+    "year": "'20"
+},
+{
     "name": "Gurkaran",
     "iconUrl": "images/singh.jpg",
     "url": "//www.gurkaran.me",
