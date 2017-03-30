@@ -328,5 +328,16 @@
       -85.078125
     ],
     "year": "'17"
+  },
+  {
+    "name": "Eddy Orzsik",
+    "iconUrl": "images/eddy.jpg",
+    "url": "http://orzsik.me",
+    "message": "Like a Boss!",
+    "lat_long": [
+      47.928996,
+      17.709961
+    ],
+    "year": "'17"
   }
 ]
