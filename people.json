@@ -124,7 +124,7 @@
     "lat_long": [
       51.752021,
       -1.257726
-    ]
+    ],
     "year": "'18"
   },
   {
@@ -183,6 +183,17 @@
     "year": "'18"
   },
   {
+    "name": "Allison",
+    "iconUrl": "images/allison.jpg",
+    "url": "//www.allisonchuang.me",
+    "message": "Hi please be my friend",
+    "lat_long": [
+      37.886870,
+      -122.297748
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Annie",
     "iconUrl": "images/annie.png",
     "url": "http://annieke.me",
@@ -202,7 +213,7 @@
       38.4947,
 			125.8466
     ],
-  }
+  },
   {
     "name": "Ke",
     "iconUrl": "images/kd.jpg",
@@ -213,7 +224,7 @@
       123.1207
     ],
     "year": "'17"
-  }
+  },
   {
     "name": "Yeonjae",
     "iconUrl": "images/yeonjae.jpg",
