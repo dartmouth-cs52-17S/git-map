@@ -1,6 +1,10 @@
 [
   {
     "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Costa Rica!",
+    "lat_long": [
       9.6660971,
       -85.0621176
     ],
@@ -170,6 +174,17 @@
       -72.9238
     ],
     "year": "'18"
+  },
+  {
+    "name": "Danielle",
+    "iconUrl": "images/danielle.jpg",
+    "url": "http://daniellemidulla.me",
+    "message": "This is where I grew up",
+    "lat_long": [
+      40.771047,
+      -73.949318
+    ],
+    "year": "'16"
   },
   {
     "name": "Sam",
