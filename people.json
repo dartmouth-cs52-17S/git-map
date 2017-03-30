@@ -119,6 +119,17 @@
 			120.8466
     ],
     "year": "'18"
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.png",
+    "url": "http://annieke.me",
+    "message": "i'm rly hungry rn",
+    "lat_long": [
+      37.338208,
+      -121.886329
+    ],
+    "year": "'19"
   }
 
 ]
