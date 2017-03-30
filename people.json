@@ -733,5 +733,15 @@
     120.611633
   ],
   "year": "Dual Degree"
+},
+{
+  "name": "Sachin",
+  "iconUrl": "images/sachin.jpg",
+  "url": "//www.sachinvadodaria.me",
+  "message": "What's up",
+  "lat_long": [
+    37.774929,
+    -122.419416
+  ],
+  "year": "'18"
 }
-]
