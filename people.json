@@ -374,6 +374,16 @@
     -74.680400
   ],
   "year": "'18"
-}
-
+  },
+  {
+    "name": "Bill",
+    "iconUrl": "images/bill.jpg",
+    "url": "http://billtang05.me/",
+    "message": "Hi I'm Bill",
+    "lat_long": [
+			35.5555,
+			125.5555
+    ],
+    "year": "'17"
+  }
 ]
