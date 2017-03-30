@@ -22,6 +22,17 @@
     "year": "11BC"
   },
   {
+    "name": "Ahsan",
+    "iconUrl": "images/ahsan.jpg",
+    "url": "//www.ahsanazim.me",
+    "message": "!!!",
+    "lat_long": [
+      31.5546,
+      74.3572
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Alma",
     "iconUrl": "images/alma.jpg",
     "url": "//giphy.com/gifs/IgOEWPOgK6uVa/html5",
