@@ -160,4 +160,15 @@
     ],
     "year": "'18"
   }
+  {
+    "name": "SamChing",
+    "iconUrl": "images/samching.jpg",
+    "url": "https://media.giphy.com/media/F7cZTj6tvbN16/giphy.gif",
+    "message": "Yay,the Sunny Tiny Island of Singapore",
+    "lat_long": [
+      1.3521,
+      103.8198
+    ],
+    "year": "'19"
+  }
 ]
