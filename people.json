@@ -44,14 +44,14 @@
     "year": "'18"
   },
   {
-      "name": "Emma",
-      "iconUrl": "images/emma.jpg",
-      "url": "//www.emmaoberstein.me",
-      "message": "I was born in Miami",
-      "lat_long": [
-        25.76,
-        -80.19
-      ],
-      "year": "'18"
+    "name": "Jon",
+    "iconUrl": "images/jon.jpg",
+    "url": "https://media.giphy.com/media/3o6ozGRXIenJ8lrjiw/giphy.gif",
+    "message": "I'm trapped in this bubble, please help.",
+    "lat_long": [
+      26.212861,
+      -80.249771
+    ],
+    "year": "'18"
   }
 ]
