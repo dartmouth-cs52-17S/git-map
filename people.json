@@ -64,5 +64,16 @@
       -72.288693
     ],
     "year": "'19"
-  }
+  },
+  {
+    "name": "Elaine",
+    "iconUrl": "images/elaine.png",
+    "url": "//elainehweiyu.me",
+    "message": "guacamole",
+    "lat_long": [
+      1.438192,
+      103.788960
+    ],
+    "year": "17"
+  },
 ]
