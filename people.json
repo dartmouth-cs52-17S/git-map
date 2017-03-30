@@ -64,5 +64,16 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Sachin",
+    "iconUrl": "images/sachin.jpg",
+    "url": "//www.sachinvadodaria.me",
+    "message": "Sup",
+    "lat_long": [
+      37.774929,
+      -122.419416
+    ],
+    "year": "'18"
   }
 ]
