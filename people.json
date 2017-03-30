@@ -87,5 +87,15 @@
     ],
     "year": "'18"
   }
-
+  {
+    "name": "Ke",
+    "iconUrl": "images/kd.jpg",
+    "url": "",
+    "message": "West coast, best coast",
+    "lat_long": [
+      49.2827,
+      123.1207
+    ],
+    "year": "'17"
+  }
 ]
