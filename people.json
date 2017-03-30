@@ -319,6 +319,17 @@
     "year": "'19"
   },
   {
+    "name": "William Burger",
+    "iconUrl": "images/WilliamBurger.jpg",
+    "url": "http://burgerw.me",
+    "message": "Senior Spring",
+    "lat_long": [
+			55,
+			-3
+    ],
+    "year": "'17"
+  },
+  {
     "name": "SeokJun Bing",
     "iconUrl": "images/junb.jpg",
     "url": "http://junbing.me",
