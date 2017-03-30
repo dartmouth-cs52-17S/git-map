@@ -77,7 +77,6 @@
     "year": "'19"
   },
   {
-<<<<<<< HEAD
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -87,8 +86,8 @@
       139.691706
     ],
     "year": "'17"
-  }
-=======
+  },
+  {
     "name": "Byrne",
     "iconUrl": "images/byrne.jpg",
     "url": "http://broiled.me/",
@@ -110,7 +109,6 @@
     ],
     "year": "'17"
   },
->>>>>>> 3c64cf5efc072555481151393ada86914d6f8974
   {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
@@ -121,17 +119,16 @@
       -72.9238
     ],
     "year": "'18"
-  }
+  },
   {
-    "name": "Sam",
-    "iconUrl": "images/sam.jpg",
-    "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
-    "message": "I'm Mr. MeeSeeks",
+    "name": "Justin Gualtieri",
+    "iconUrl": "images/justin_gualtieri.jpg",
+    "url": "//justingualtieri.me",
+    "message": "enjoys long walks on the beach",
     "lat_long": [
-			37.4947,
-			120.8466
+      22.8905,
+      22.8905
     ],
     "year": "'18"
   }
-
 ]
