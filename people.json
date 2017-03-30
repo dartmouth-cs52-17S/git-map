@@ -77,27 +77,6 @@
     "year": "'19"
   },
   {
-    "name": "Byrne",
-    "iconUrl": "images/byrne.jpg",
-    "url": "http://broiled.me/",
-    "message": "I am Byrne",
-    "lat_long": [
-      26.368306,
-      -80.128932
-    ],
-  },
-  {
-    "name": "Nick Moolenijzer",
-    "iconUrl": "images/nickmoolenijzer.jpg",
-    "url": "//www.basted.me",
-    "message": "My name is Nick",
-    "lat_long": [
-      35.085334,
-      -106.605553
-    ],
-    "year": "'17"
-  },
-  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
     "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
@@ -107,6 +86,16 @@
 			120.8466
     ],
     "year": "'18"
+  },
+  {
+    "name": "Allison",
+    "iconUrl": "images/allison.jpg",
+    "url": "//www.allisonchuang.me",
+    "message": "Hi please be my friend",
+    "lat_long": [
+      37.886870,
+      -122.297748
+    ],
+    "year": "'19"
   }
-
 ]
