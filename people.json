@@ -75,6 +75,17 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Nick Moolenijzer",
+    "iconUrl": "images/nickmoolenijzer.jpg",
+    "url": "//www.basted.me",
+    "message": "My name is Nick",
+    "lat_long": [
+      35.085334,
+      -106.605553
+    ],
+    "year": "'17"
   }
   {
     "name": "Sam",
