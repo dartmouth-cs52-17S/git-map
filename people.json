@@ -463,5 +463,16 @@
       103.8198
     ],
     "year": "'19"
+  },
+  {
+    "name": "Matt",
+    "iconUrl": "images/matt.png",
+    "url": "http://mattgirouard.me",
+    "message": "Pitt",
+    "lat_long": [
+      40.440625,
+      -79.995886
+    ],
+    "year": "'17"
   }
 ]
