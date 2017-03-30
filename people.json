@@ -64,5 +64,16 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Kooshul Jhaveri",
+    "iconUrl": "images/koosh.jpg",
+    "url": "//kooshul.me",
+    "message": "Justin enjoys long walks on the beach",
+    "lat_long": [
+      51.752021,
+      -1.257726
+    ],
+    "year": "'18"
   }
 ]
