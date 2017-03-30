@@ -76,8 +76,6 @@
     ],
     "year": "'19"
   },
-<<<<<<< HEAD
-=======
   {
     "name": "Nick Moolenijzer",
     "iconUrl": "images/nickmoolenijzer.jpg",
@@ -88,8 +86,7 @@
       -106.605553
     ],
     "year": "'17"
-  }
->>>>>>> b73baf1d1b29dfd722a899f7b36ad990c43aff7f
+  },
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
