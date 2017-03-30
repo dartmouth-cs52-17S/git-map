@@ -76,6 +76,20 @@
     ],
     "year": "'19"
   },
+<<<<<<< HEAD
+=======
+  {
+    "name": "Nick Moolenijzer",
+    "iconUrl": "images/nickmoolenijzer.jpg",
+    "url": "//www.basted.me",
+    "message": "My name is Nick",
+    "lat_long": [
+      35.085334,
+      -106.605553
+    ],
+    "year": "'17"
+  }
+>>>>>>> b73baf1d1b29dfd722a899f7b36ad990c43aff7f
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
