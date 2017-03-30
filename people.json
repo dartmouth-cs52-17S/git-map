@@ -132,4 +132,19 @@
     "year":"'17 MS"
   }
 
+<<<<<<< 1db871c034191f95cb8e6258dbaf58ca5b4b3dbf
+=======
+  {
+    "name": "Nathan",
+    "iconUrl": "images/nathan.jpg",
+    "url": "//nathanyu.me",
+    "message": "Hi! I'm Nathan",
+    "lat_long": [
+      35.222567,
+      -97.439478
+    ],
+    "year": "'19"
+  }
+
+>>>>>>> adding nathan
 ]
