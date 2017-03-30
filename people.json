@@ -1,10 +1,6 @@
 [
   {
     "name": "Froggy",
-    "iconUrl": "images/froggy.jpg",
-    "url": "//giphy.com/embed/QCpqmkDHVNde",
-    "message": "Come visit me in Costa Rica!",
-    "lat_long": [
       9.6660971,
       -85.0621176
     ],
@@ -55,6 +51,17 @@
     "year": "'18"
   },
   {
+    "name": "Sidney",
+    "iconUrl": "images/sidney.jpeg",
+    "url": "//sidthesquid.me",
+    "message": "Vim or I :wq",
+    "lat_long": [
+      40.755656,
+      -73.587627
+    ],
+    "year": "'17"
+  },
+  {
     "name": "Tyler",
     "iconUrl": "images/tyler.png",
     "url": "http://yeezyyeezyyeezy.me",
@@ -73,7 +80,83 @@
     "lat_long": [
       51.752021,
       -1.257726
+    ]
+    "year": "'18"
+  },
+  {
+    "name": "Ellis",
+    "iconUrl": "images/ellisguo.jpg",
+    "url": "//deepfried.me",
+    "message": "Is it better deep fried?",
+    "lat_long": [
+      35.689487,
+      139.691706
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Byrne",
+    "iconUrl": "images/byrne.jpg",
+    "url": "http://broiled.me/",
+    "message": "I am Byrne",
+    "lat_long": [
+      26.368306,
+      -80.128932
+    ],
+     "year": "'17"
+  },
+  {
+    "name": "Nick Moolenijzer",
+    "iconUrl": "images/nickmoolenijzer.jpg",
+    "url": "//www.basted.me",
+    "message": "My name is Nick",
+    "lat_long": [
+      35.085334,
+      -106.605553
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "http://stream1.gifsoup.com/view3/1588307/cute-puppy-o.gif",
+    "message": "You merely adopted the snow, I was born into it.",
+    "lat_long": [
+      44.6752,
+      -72.9238
     ],
     "year": "'18"
+  },
+  {
+    "name": "Sam",
+    "iconUrl": "images/sam.jpg",
+    "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
+    "message": "I'm Mr. MeeSeeks",
+    "lat_long": [
+			37.4947,
+			120.8466
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.png",
+    "url": "http://annieke.me",
+    "message": "i'm rly hungry rn",
+    "lat_long": [
+      37.338208,
+      -121.886329
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Emily Lin",
+    "iconUrl": "images/emily.jpg",
+    "url": "http://emilyjlin.me",
+    "message": "Am I on this map? Instructions unclear.",
+    "lat_long": [
+      38.4947,
+			125.8466
+    ],
   }
 ]
