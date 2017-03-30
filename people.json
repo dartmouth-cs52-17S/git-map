@@ -99,6 +99,17 @@
     "year": "'17"
   },
   {
+    "name": "Danielle",
+    "iconUrl": "images/danielle.jpg",
+    "url": "http://daniellemidulla.me",
+    "message": "This is where I grew up",
+    "lat_long": [
+      40.771047,
+      -73.949318
+    ],
+    "year": "'16"
+  },
+  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
     "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
