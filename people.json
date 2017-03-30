@@ -171,4 +171,15 @@
     ],
     "year": "'19"
   }
+  {
+    "name": "Allen (Chimian Wu)",
+    "iconUrl": "images/allenwu.png",
+    "url": "https://allen-wu.squarespace.com",
+    "message": "THIS is FUN!!",
+    "lat_long": [
+      29.068602,
+      119.649560
+    ],
+    "year":"'17 MS"
+  }
 ]
