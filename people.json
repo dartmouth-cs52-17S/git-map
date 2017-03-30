@@ -196,6 +196,18 @@
 			120.8466
     ],
     "year": "'18"
+  }
+  {
+    "name": "Gurkaran",
+    "iconUrl": "images/singh.jpg",
+    "url": "//www.gurkaran.me",
+    "message": "I am the turbanator",
+    "lat_long": [
+			29.760427,
+			-95.369803
+    ],
+    "year": "'17"
+  }
   },
   {
     "name": "Nitasha",
