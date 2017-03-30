@@ -20,5 +20,16 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Alma",
+    "iconUrl": "images/alma.jpg",
+    "url": "//giphy.com/gifs/IgOEWPOgK6uVa/html5",
+    "message": "Hi I like food",
+    "lat_long": [
+      40.776488,
+      -73.467345
+    ],
+    "year": "'18"
   }
 ]
