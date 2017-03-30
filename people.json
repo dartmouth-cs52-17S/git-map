@@ -77,7 +77,8 @@
     "iconUrl": "images/armin_mappy.jpg",
     "url": "http://arminhammer.me",
     "message": "Armin",
-    "lat_long": [38.889931, -77.009003]
+    "lat_long": [38.889931, -77.009003],
+    "year": "'17",
   },
   {
     "name": "Sidney",
