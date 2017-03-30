@@ -18,6 +18,17 @@
     "year": "11BC"
   },
   {
+    "name": "Andrew Ogren",
+    "iconUrl": "images/AndrewOgren.jpg",
+    "url": "//www.andrewogren.me",
+    "message": "Having a fine time!",
+    "lat_long": [
+      43.7022,
+      -72.289
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Ahsan",
     "iconUrl": "images/ahsan.jpg",
     "url": "//www.ahsanazim.me",
