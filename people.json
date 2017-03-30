@@ -64,5 +64,16 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Byrne",
+    "iconUrl": "images/byrne.jpg",
+    "url": "http:/broiled.me",
+    "message": "I am Byrne",
+    "lat_long": [
+      26.368306,
+      -80.128932
+    ],
+    "year": "'17"
   }
 ]
