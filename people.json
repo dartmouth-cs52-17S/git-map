@@ -77,6 +77,7 @@
     "year": "'19"
   },
   {
+<<<<<<< HEAD
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -87,6 +88,27 @@
     ],
     "year": "'17"
   }
+=======
+    "name": "Byrne",
+    "iconUrl": "images/byrne.jpg",
+    "url": "http://broiled.me/",
+    "message": "I am Byrne",
+    "lat_long": [
+      26.368306,
+      -80.128932
+  },
+  {
+    "name": "Nick Moolenijzer",
+    "iconUrl": "images/nickmoolenijzer.jpg",
+    "url": "//www.basted.me",
+    "message": "My name is Nick",
+    "lat_long": [
+      35.085334,
+      -106.605553
+    ],
+    "year": "'17"
+  },
+>>>>>>> 3c64cf5efc072555481151393ada86914d6f8974
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
