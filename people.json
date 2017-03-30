@@ -55,6 +55,17 @@
     "year": "'18"
   },
   {
+    "name": "Sidney",
+    "iconUrl": "images/sidney.jpeg",
+    "url": "//sidthesquid.me",
+    "message": "Vim or I :wq",
+    "lat_long": [
+      40.755656,
+      -73.587627
+    ],
+    "year": "'17"
+  },
+  {
     "name": "Tyler",
     "iconUrl": "images/tyler.png",
     "url": "http://yeezyyeezyyeezy.me",
