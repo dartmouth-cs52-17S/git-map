@@ -42,5 +42,17 @@
       -73.467345
     ],
     "year": "'18"
+  },
+  {
+      "name": "Emma",
+      "iconUrl": "images/emma.jpg",
+      "url": "//www.emmaoberstein.me",
+      "message": "I was born in Miami",
+      "lat_long": [
+        25.76,
+        -80.19
+      ],
+      "year": "'18"
+    }
   }
 ]
