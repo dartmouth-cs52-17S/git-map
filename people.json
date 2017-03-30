@@ -73,6 +73,13 @@
     "year": "'18"
   },
   {
+    "name": "Armin",
+    "iconUrl": "images/armin_mappy.jpg",
+    "url": "http://arminhammer.me",
+    "message": "Armin",
+    "lat_long": [38.889931, -77.009003]
+  },
+  {
     "name": "Sidney",
     "iconUrl": "images/sidney.jpeg",
     "url": "//sidthesquid.me",
