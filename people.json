@@ -196,7 +196,7 @@
 			120.8466
     ],
     "year": "'18"
-  }
+  },
   {
     "name": "Gurkaran",
     "iconUrl": "images/singh.jpg",
@@ -207,7 +207,6 @@
 			-95.369803
     ],
     "year": "'17"
-  }
   },
   {
     "name": "Nitasha",
@@ -220,6 +219,7 @@
     ],
     "year": "'19"
   },
+  {
     "name": "Allison",
     "iconUrl": "images/allison.jpg",
     "url": "//www.allisonchuang.me",
