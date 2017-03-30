@@ -77,6 +77,15 @@
     "year": "'19"
   },
   {
+    "name": "Byrne",
+    "iconUrl": "images/byrne.jpg",
+    "url": "http://broiled.me/",
+    "message": "I am Byrne",
+    "lat_long": [
+      26.368306,
+      -80.128932
+  },
+  {
     "name": "Nick Moolenijzer",
     "iconUrl": "images/nickmoolenijzer.jpg",
     "url": "//www.basted.me",
