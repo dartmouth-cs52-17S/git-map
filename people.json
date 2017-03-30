@@ -73,6 +73,39 @@
     "year": "'19"
   },
   {
+    "name": "Byrne",
+    "iconUrl": "images/byrne.jpg",
+    "url": "http://broiled.me/",
+    "message": "I am Byrne",
+    "lat_long": [
+      26.368306,
+      -80.128932
+    ],
+     "year": "'17"
+  },
+  {
+    "name": "Nick Moolenijzer",
+    "iconUrl": "images/nickmoolenijzer.jpg",
+    "url": "//www.basted.me",
+    "message": "My name is Nick",
+    "lat_long": [
+      35.085334,
+      -106.605553
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "http://stream1.gifsoup.com/view3/1588307/cute-puppy-o.gif",
+    "message": "You merely adopted the snow, I was born into it.",
+    "lat_long": [
+      44.6752,
+      -72.9238
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
     "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
