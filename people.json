@@ -202,7 +202,7 @@
       38.4947,
 			125.8466
     ],
-  }
+  },
   {
     "name": "Ke",
     "iconUrl": "images/kd.jpg",
@@ -213,7 +213,7 @@
       123.1207
     ],
     "year": "'17"
-  }
+  },
   {
     "name": "Yeonjae",
     "iconUrl": "images/yeonjae.jpg",
@@ -224,5 +224,16 @@
 			-71.177611
     ],
     "year": "'19"
-  }
+  },
+  {
+    "name": "SeokJun Bing",
+    "iconUrl": "images/junb.jpg",
+    "url": "//junbing.me",
+    "message": "Awesome!",
+    "lat_long": [
+      35.666222,
+      -85.078125
+    ],
+    "year": "'17"
+  },
 ]
