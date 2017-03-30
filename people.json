@@ -96,6 +96,8 @@
     "lat_long": [
       26.368306,
       -80.128932
+    ],
+     "year": "'17"
   },
   {
     "name": "Nick Moolenijzer",
@@ -109,6 +111,17 @@
     "year": "'17"
   },
 >>>>>>> 3c64cf5efc072555481151393ada86914d6f8974
+  {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "http://stream1.gifsoup.com/view3/1588307/cute-puppy-o.gif",
+    "message": "You merely adopted the snow, I was born into it.",
+    "lat_long": [
+      44.6752,
+      -72.9238
+    ],
+    "year": "'18"
+  }
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
