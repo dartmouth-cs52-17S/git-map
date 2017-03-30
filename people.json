@@ -356,7 +356,7 @@
     "iconUrl": "images/irene.jpg",
     "url": "http://irenefeng.com",
     "message": "Existentialism is stupid",
-    "lat_long": [
+    "lat_long":
       42.208731,
       -88.078125
     ],
@@ -406,4 +406,5 @@
     ],
     "year": "'17"
   }
+
 ]
