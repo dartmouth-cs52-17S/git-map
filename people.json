@@ -1,6 +1,10 @@
 [
   {
     "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Costa Rica!",
+    "lat_long": [
       9.6660971,
       -85.0621176
     ],
