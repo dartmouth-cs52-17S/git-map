@@ -75,7 +75,7 @@
       -72.288693
     ],
     "year": "'19"
-  }
+  },
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
@@ -84,6 +84,17 @@
     "lat_long": [
 			37.4947,
 			120.8466
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Mahnoor",
+    "iconUrl": "images/mahnoor.jpg",
+    "url": "//mahnoormaqsood.me",
+    "message": "HIIIIII",
+    "lat_long": [
+			24.861462,
+			67.009939
     ],
     "year": "'18"
   }
