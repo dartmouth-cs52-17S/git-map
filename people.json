@@ -55,6 +55,17 @@
     "year": "'18"
   },
   {
+    "name": "Sidney",
+    "iconUrl": "images/sidney.jpeg",
+    "url": "//sidthesquid.me",
+    "message": "Vim or I :wq",
+    "lat_long": [
+      40.755656,
+      -73.587627
+    ],
+    "year": "'17"
+  },
+  {
     "name": "Tyler",
     "iconUrl": "images/tyler.png",
     "url": "http://yeezyyeezyyeezy.me",
@@ -76,4 +87,26 @@
     ],
     "year": "17"
   },
+  {
+    "name": "Nick Moolenijzer",
+    "iconUrl": "images/nickmoolenijzer.jpg",
+    "url": "//www.basted.me",
+    "message": "My name is Nick",
+    "lat_long": [
+      35.085334,
+      -106.605553
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Sam",
+    "iconUrl": "images/sam.jpg",
+    "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
+    "message": "I'm Mr. MeeSeeks",
+    "lat_long": [
+			37.4947,
+			120.8466
+    ],
+    "year": "'18"
+  }
 ]
