@@ -64,5 +64,16 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Kevin",
+    "iconUrl": "images/kev_jt.JPG",
+    "url": "http://kevmo.me",
+    "message": "Steph Curry 2020",
+    "lat_long": [
+      37.4032728,
+      -122.2477445
+    ],
+    "year": "'17"
   }
 ]
