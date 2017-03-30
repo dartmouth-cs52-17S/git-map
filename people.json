@@ -75,7 +75,7 @@
       -72.288693
     ],
     "year": "'19"
-  }
+  },
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
@@ -86,6 +86,16 @@
 			120.8466
     ],
     "year": "'18"
+  },
+  {
+    "name": "Emily Lin",
+    "iconUrl": "images/emily.jpg",
+    "url": "http://emilyjlin.me",
+    "message": "Am I on this map? Instructions unclear.",
+    "lat_long": [
+      38.4947,
+			125.8466
+    ],
+    "year": "'18"
   }
-
 ]
