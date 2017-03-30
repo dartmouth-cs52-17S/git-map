@@ -84,6 +84,17 @@
     "year": "'19"
   },
   {
+    "name": "Kooshul Jhaveri",
+    "iconUrl": "images/koosh.jpg",
+    "url": "//kooshul.me",
+    "message": "Justin enjoys long walks on the beach",
+    "lat_long": [
+      51.752021,
+      -1.257726
+    ]
+    "year": "'18"
+  },
+  {
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -158,7 +169,6 @@
       38.4947,
 			125.8466
     ],
-    "year": "'18"
   }
   {
     "name": "Ke",
