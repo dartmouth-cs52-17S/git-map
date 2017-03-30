@@ -361,7 +361,7 @@
       -90.423224
     ],
     "year": "'18"
-  }, 
+  },
   {
     "name": "Jane",
     "iconUrl": "images/Jane.jpg",
@@ -394,5 +394,17 @@
 			125.5555
     ],
     "year": "'17"
+  },
+  {
+    "name": "Kaitlyn",
+    "iconUrl": "images/kaitlyn.jpg",
+    "url": "//kaithahn.me",
+    "message": "Hi, I'm Kaitlyn",
+    "lat_long": [
+			34.052234,
+			-118.243685
+    ],
+    "year": "'19"
   }
+
 ]
