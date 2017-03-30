@@ -1,10 +1,6 @@
 [
   {
     "name": "Froggy",
-    "iconUrl": "images/froggy.jpg",
-    "url": "//giphy.com/embed/QCpqmkDHVNde",
-    "message": "Come visit me in Costa Rica!",
-    "lat_long": [
       9.6660971,
       -85.0621176
     ],
@@ -44,6 +40,17 @@
     "year": "'18"
   },
   {
+    "name": "Anish Chadalavada",
+    "iconUrl": "images/anish.jpg",
+    "url": "//anishchad.me",
+    "message": "Hi I am a big Patriots fan",
+    "lat_long": [
+      41.854009,
+      -72.827915
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Jon",
     "iconUrl": "images/jon.jpg",
     "url": "https://media.giphy.com/media/3o6ozGRXIenJ8lrjiw/giphy.gif",
@@ -77,7 +84,6 @@
     "year": "'19"
   },
   {
-
     "name": "Elaine",
     "iconUrl": "images/elaine.png",
     "url": "//elainehweiyu.me",
@@ -89,6 +95,28 @@
     "year": "17"
 },
 {
+    "name": "Kooshul Jhaveri",
+    "iconUrl": "images/koosh.jpg",
+    "url": "//kooshul.me",
+    "message": "Justin enjoys long walks on the beach",
+    "lat_long": [
+      51.752021,
+      -1.257726
+    ]
+    "year": "'18"
+  },
+  {
+    "name": "Ellis",
+    "iconUrl": "images/ellisguo.jpg",
+    "url": "//deepfried.me",
+    "message": "Is it better deep fried?",
+    "lat_long": [
+      35.689487,
+      139.691706
+    ],
+    "year": "'17"
+  },
+  {
     "name": "Byrne",
     "iconUrl": "images/byrne.jpg",
     "url": "http://broiled.me/",
@@ -111,6 +139,17 @@
     "year": "'17"
   },
   {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "http://stream1.gifsoup.com/view3/1588307/cute-puppy-o.gif",
+    "message": "You merely adopted the snow, I was born into it.",
+    "lat_long": [
+      44.6752,
+      -72.9238
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
     "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
@@ -120,5 +159,37 @@
 			120.8466
     ],
     "year": "'18"
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.png",
+    "url": "http://annieke.me",
+    "message": "i'm rly hungry rn",
+    "lat_long": [
+      37.338208,
+      -121.886329
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Emily Lin",
+    "iconUrl": "images/emily.jpg",
+    "url": "http://emilyjlin.me",
+    "message": "Am I on this map? Instructions unclear.",
+    "lat_long": [
+      38.4947,
+			125.8466
+    ],
+  }
+  {
+    "name": "Ke",
+    "iconUrl": "images/kd.jpg",
+    "url": "",
+    "message": "West coast, best coast",
+    "lat_long": [
+      49.2827,
+      123.1207
+    ],
+    "year": "'17"
   }
 ]
