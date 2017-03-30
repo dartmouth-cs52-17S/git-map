@@ -573,8 +573,18 @@
     "lat_long": [
       42.213987,
       -71.224499
-
     ],
     "year": "'19"
+  },
+  {
+    "name": "Justin",
+    "iconUrl": "images/justin_lee.jpg",
+    "url": "//jlee9595.me",
+    "message": "Message",
+    "lat_long": [
+			41.030853,
+			-73.578014
+    ],
+    "year": "'17"
   }
 ]
