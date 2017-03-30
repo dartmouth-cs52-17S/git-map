@@ -205,7 +205,7 @@ Note: you have to delete it in both places, as just deleting it remotely won't d
 
 ## DONE!!
 
-Once your changes are merged into the remote `gh-pages` branch on github you'll be able to see your changes at: http://dartmouth-cs52-17S.github.io/git-map
+Once your changes are merged into the remote `gh-pages` branch on github you'll be able to see your changes at: http://map.cs52.me
 
 <br>
 <hr>
