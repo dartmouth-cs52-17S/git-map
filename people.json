@@ -64,5 +64,16 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Alex",
+    "iconUrl": "images/alexmcdowell.jpg",
+    "url": "http://alexmcdowell.me",
+    "message": "Come visit me in Miami!",
+    "lat_long": [
+      25.7617,
+      80.1918
+    ],
+    "year": "'18"
   }
 ]
