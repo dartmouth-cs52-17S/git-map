@@ -77,6 +77,14 @@
     "year": "'18"
   },
   {
+    "name": "Armin",
+    "iconUrl": "images/armin_mappy.jpg",
+    "url": "http://arminhammer.me",
+    "message": "2B || !2B",
+    "lat_long": [38.889931, -77.009003],
+    "year": "'17",
+  },
+  {
     "name": "Sidney",
     "iconUrl": "images/sidney.jpeg",
     "url": "//sidthesquid.me",
@@ -261,11 +269,12 @@
       38.4947,
 			125.8466
     ],
+    "year": "'18'"
   },
   {
     "name": "Ke",
     "iconUrl": "images/kd.jpg",
-    "url": "",
+    "url": "http://kedeng.me",
     "message": "West coast, best coast",
     "lat_long": [
       49.2827,
@@ -276,7 +285,7 @@
   {
     "name": "Yeonjae",
     "iconUrl": "images/yeonjae.jpg",
-    "url": "//yeonjaepark.me",
+    "url": "http://yeonjaepark.me",
     "message": "Hello everyone!",
     "lat_long": [
 			42.395640,
@@ -287,7 +296,7 @@
   {
     "name": "SeokJun Bing",
     "iconUrl": "images/junb.jpg",
-    "url": "//junbing.me",
+    "url": "http://junbing.me",
     "message": "Awesome!",
     "lat_long": [
       35.666222,
