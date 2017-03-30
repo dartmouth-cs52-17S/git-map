@@ -11,17 +11,6 @@
     "year": "'21"
   },
   {
-    "name": "Ruoni",
-    "iconUrl": "images/ruoni.jpg",
-    "url": "//zoew.me",
-    "message": "Hi I am excited to be in here!",
-    "lat_long": [
-      27.894504,
-      102.264449
-    ],
-    "year": "11BC"
-  },
-  {
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "url": "//www.zingweb.com",
@@ -231,6 +220,17 @@
     "year": "'18"
   },
   {
+    "name": "Jiachen",
+    "iconUrl": "images/jiachen.png",
+    "url": "//jiachenjiang.me",
+    "message": "I have no mouth but I must scream",
+    "lat_long": [
+			34.020289,
+			-117.865339
+    ],
+    "year": "'20"
+},
+{
     "name": "Gurkaran",
     "iconUrl": "images/singh.jpg",
     "url": "//www.gurkaran.me",
@@ -291,8 +291,8 @@
     "url": "http://emilyjlin.me",
     "message": "Am I on this map? Instructions unclear.",
     "lat_long": [
-      38.4947,
-			125.8466
+      32.776664,
+			-96.796988
     ],
     "year": "'18'"
   },
@@ -319,6 +319,17 @@
     "year": "'19"
   },
   {
+    "name": "William Burger",
+    "iconUrl": "images/WilliamBurger.jpg",
+    "url": "http://burgerw.me",
+    "message": "Senior Spring",
+    "lat_long": [
+			55,
+			-3
+    ],
+    "year": "'17"
+  },
+  {
     "name": "SeokJun Bing",
     "iconUrl": "images/junb.jpg",
     "url": "http://junbing.me",
@@ -328,7 +339,6 @@
       -85.078125
     ],
     "year": "'17"
-<<<<<<< f7e08b61cd30e386ac4d8c7ee4f6e2fc12bbc3e6
   },
   {
     "name": "Eddy Orzsik",
@@ -362,7 +372,5 @@
       -90.423224
     ],
     "year": "'18"
-=======
->>>>>>> Ruoni's icon added
   }
 ]
