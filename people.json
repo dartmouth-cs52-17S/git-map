@@ -75,6 +75,17 @@
       -72.288693
     ],
     "year": "'19"
+  },
+  {
+    "name": "Ellis",
+    "iconUrl": "images/ellisguo.jpg",
+    "url": "//deepfried.me",
+    "message": "Is it better deep fried?",
+    "lat_long": [
+      35.689487,
+      139.691706
+    ],
+    "year": "'17"
   }
   {
     "name": "Sam",
