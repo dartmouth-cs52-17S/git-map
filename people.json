@@ -84,6 +84,17 @@
     "year": "'19"
   },
   {
+    "name": "Alex",
+    "iconUrl": "images/alexmcdowell.jpg",
+    "url": "http://alexmcdowell.me",
+    "message": "Come visit me in Miami!",
+    "lat_long": [
+      25.7617,
+      80.1918
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Elaine",
     "iconUrl": "images/elaine.png",
     "url": "//elainehweiyu.me",
