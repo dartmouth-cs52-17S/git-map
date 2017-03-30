@@ -44,7 +44,7 @@ var facemarkers = L.layerGroup();
 
 // function to add markers
 var addMarker = function(options) {
-  var icon = new PersonIcon({iconUrl: 'http://mappy.dali.dartmouth.edu/' + options.iconUrl});
+  var icon = new PersonIcon({iconUrl: options.iconUrl});
   var marker = L.marker(options.lat_long, {icon: icon, url:  options.url, name: options.name, tags: [options.year]}).bindPopup(options.message);
   facemarkers.addLayer(marker);
 };
