@@ -77,15 +77,6 @@
     "year": "'19"
   },
   {
-    "name": "Byrne",
-    "iconUrl": "images/byrne.jpg",
-    "url": "http://broiled.me/",
-    "message": "I am Byrne",
-    "lat_long": [
-      26.368306,
-      -80.128932
-  },
-  {
     "name": "Nick Moolenijzer",
     "iconUrl": "images/nickmoolenijzer.jpg",
     "url": "//www.basted.me",
@@ -104,6 +95,18 @@
     "lat_long": [
 			37.4947,
 			120.8466
+    ],
+    "year": "'18"
+  }
+
+  {
+    "name": "Barry",
+    "iconUrl": "images/barry.jpg",
+    "url": "http://gifsgallery.com/drive+fast+gif",
+    "message": "Let's hope this is me on Friday",
+    "lat_long": [
+			30.5931,
+			114.3054
     ],
     "year": "'18"
   }
