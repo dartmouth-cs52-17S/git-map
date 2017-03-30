@@ -73,7 +73,6 @@
     "year": "'19"
   },
   {
-<<<<<<< HEAD
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -83,8 +82,8 @@
       139.691706
     ],
     "year": "'17"
-  }
-=======
+  },
+  {
     "name": "Byrne",
     "iconUrl": "images/byrne.jpg",
     "url": "http://broiled.me/",
@@ -106,7 +105,6 @@
     ],
     "year": "'17"
   },
->>>>>>> 3c64cf5efc072555481151393ada86914d6f8974
   {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
@@ -128,6 +126,17 @@
 			120.8466
     ],
     "year": "'18"
+  },
+  {
+    "name": "Annie",
+    "iconUrl": "images/annie.png",
+    "url": "http://annieke.me",
+    "message": "i'm rly hungry rn",
+    "lat_long": [
+      37.338208,
+      -121.886329
+    ],
+    "year": "'19"
   },
   {
     "name": "Emily Lin",
