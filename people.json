@@ -53,5 +53,16 @@
       -80.249771
     ],
     "year": "'18"
+  },
+  {
+    "name": "Tyler",
+    "iconUrl": "images/tyler.png",
+    "url": "http://yeezyyeezyyeezy.me",
+    "message": "hello",
+    "lat_long": [
+      43.704441,
+      -72.288693
+    ],
+    "year": "'19"
   }
 ]
