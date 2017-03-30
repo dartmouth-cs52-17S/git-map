@@ -110,6 +110,17 @@
     "year": "'19"
   },
   {
+    "name": "Kevin",
+    "iconUrl": "images/steph-curry.png",
+    "url": "http://kevmo.me",
+    "message": "Steph Curry 2020",
+    "lat_long": [
+      34.033333,
+      -5
+    ],
+    "year": "'17"
+  },
+  {
     "name": "Alex",
     "iconUrl": "images/alexmcdowell.jpg",
     "url": "http://alexmcdowell.me",
