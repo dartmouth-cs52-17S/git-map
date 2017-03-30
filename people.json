@@ -11,6 +11,17 @@
     "year": "'21"
   },
   {
+    "name": "Shirley Zhang",
+    "iconUrl": "images/shirley.jpg",
+    "url": "//theshirley.me",
+    "message": "don't forget about New Zealand",
+    "lat_long": [
+      -45.878760,
+      170.502798
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Ruoni",
     "iconUrl": "images/ruoni.jpg",
     "url": "//zoew.me",
@@ -361,7 +372,7 @@
       -90.423224
     ],
     "year": "'18"
-  }, 
+  },
   {
     "name": "Jane",
     "iconUrl": "images/Jane.jpg",
