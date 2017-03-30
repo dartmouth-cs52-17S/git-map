@@ -32,6 +32,17 @@ Here's what we're going to do!
 
 🐛 if you run into trouble with messages about ssh keys you need to configure your ssh keys  `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"` (hit enter a bunch of times) and [upload that key to github](https://help.github.com/articles/connecting-to-github-with-ssh/).
 
+### Check Your GitHub Author and Email Settings
+
+If you run `git config --global user.email` and it gives you some weird email address you should fix this by running:
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+```
+
+And make sure the email you choose is also listed in [GitHub Email Settings](https://github.com/settings/emails)
+
 ### Start Local Webserver
 
 ```bash
