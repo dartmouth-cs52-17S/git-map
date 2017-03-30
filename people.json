@@ -192,4 +192,15 @@
     ],
     "year": "'17"
   }
+  {
+    "name": "Yeonjae",
+    "iconUrl": "images/yeonjae.jpg",
+    "url": "//yeonjaepark.me",
+    "message": "Hello everyone!",
+    "lat_long": [
+			42.395640,
+			-71.177611
+    ],
+    "year": "'19"
+  }
 ]
