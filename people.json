@@ -1,5 +1,16 @@
 [
   {
+    "name": "Froggy",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//giphy.com/embed/QCpqmkDHVNde",
+    "message": "Come visit me in Costa Rica!",
+    "lat_long": [
+      9.6660971,
+      -85.0621176
+    ],
+    "year": "'21"
+  },
+  {
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "url": "//www.zingweb.com",
@@ -9,6 +20,17 @@
       -118.8578716
     ],
     "year": "11BC"
+  },
+  {
+    "name": "Andrew Ogren",
+    "iconUrl": "images/AndrewOgren.jpg",
+    "url": "//www.andrewogren.me",
+    "message": "Having a fine time!",
+    "lat_long": [
+      43.7022,
+      -72.289
+    ],
+    "year": "'18"
   },
   {
     "name": "Ahsan",
@@ -55,6 +77,17 @@
     "year": "'18"
   },
   {
+    "name": "Armin",
+    "iconUrl": "images/armin_mappy.jpg",
+    "url": "http://arminhammer.me",
+    "message": "2B || !2B",
+    "lat_long": [
+      38.889931,
+      -77.009003
+    ],
+    "year": "'17"
+  },
+  {
     "name": "Sidney",
     "iconUrl": "images/sidney.jpeg",
     "url": "//sidthesquid.me",
@@ -86,6 +119,28 @@
       -5
     ],
     "year": "'17"
+  },
+  {
+    "name": "Alex",
+    "iconUrl": "images/alexmcdowell.jpg",
+    "url": "http://alexmcdowell.me",
+    "message": "Come visit me in Miami!",
+    "lat_long": [
+      25.7617,
+      80.1918
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Elaine",
+    "iconUrl": "images/elaine.png",
+    "url": "//elainehweiyu.me",
+    "message": "guacamole",
+    "lat_long": [
+      1.438192,
+      103.788960
+    ],
+    "year": "17"
   },
   {
     "name": "Kooshul Jhaveri",
@@ -143,6 +198,17 @@
     "year": "'18"
   },
   {
+    "name": "Danielle",
+    "iconUrl": "images/danielle.jpg",
+    "url": "http://daniellemidulla.me",
+    "message": "This is where I grew up",
+    "lat_long": [
+      40.771047,
+      -73.949318
+    ],
+    "year": "'16"
+  },
+  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
     "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
@@ -152,6 +218,50 @@
 			120.8466
     ],
     "year": "'18"
+  },
+  {
+    "name": "Gurkaran",
+    "iconUrl": "images/singh.jpg",
+    "url": "//www.gurkaran.me",
+    "message": "I am the turbanator",
+    "lat_long": [
+			29.760427,
+			-95.369803
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Nitasha",
+    "iconUrl": "images/nitasha.jpg",
+    "url": "http://resizeimage.net/viewimg/itIlCZjophGpWjmn/3QqRI/20f86840a9b34ad5b5ecb43d56f283.gif",
+    "message": "Bonjour",
+    "lat_long": [
+			40.789142,
+			-73.134961
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Allison",
+    "iconUrl": "images/allison.jpg",
+    "url": "//www.allisonchuang.me",
+    "message": "Hi please be my friend",
+    "lat_long": [
+      37.886870,
+      -122.297748
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Adam",
+    "iconUrl": "images/atom.jpg",
+    "url": "//arinehouse.me",
+    "message": "hello world",
+    "lat_long": [
+      41.263615,
+      -75.898132
+    ],
+    "year": "'19"
   },
   {
     "name": "Annie",
@@ -173,17 +283,39 @@
       38.4947,
 			125.8466
     ],
-  }
+    "year": "'18'"
+  },
   {
     "name": "Ke",
     "iconUrl": "images/kd.jpg",
-    "url": "",
+    "url": "http://kedeng.me",
     "message": "West coast, best coast",
     "lat_long": [
       49.2827,
       123.1207
     ],
     "year": "'17"
+  },
+  {
+    "name": "Yeonjae",
+    "iconUrl": "images/yeonjae.jpg",
+    "url": "http://yeonjaepark.me",
+    "message": "Hello everyone!",
+    "lat_long": [
+			42.395640,
+			-71.177611
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "SeokJun Bing",
+    "iconUrl": "images/junb.jpg",
+    "url": "http://junbing.me",
+    "message": "Awesome!",
+    "lat_long": [
+      35.666222,
+      -85.078125
+    ],
+    "year": "'17"
   }
-
 ]
