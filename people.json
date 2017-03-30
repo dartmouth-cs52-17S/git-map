@@ -196,7 +196,7 @@
 			120.8466
     ],
     "year": "'18"
-  }
+  },
   {
     "name": "Gurkaran",
     "iconUrl": "images/singh.jpg",
@@ -207,7 +207,6 @@
 			-95.369803
     ],
     "year": "'17"
-  }
   },
   {
     "name": "Nitasha",
@@ -277,7 +276,7 @@
   {
     "name": "Yeonjae",
     "iconUrl": "images/yeonjae.jpg",
-    "url": "//yeonjaepark.me",
+    "url": "http://yeonjaepark.me",
     "message": "Hello everyone!",
     "lat_long": [
 			42.395640,
@@ -288,7 +287,7 @@
   {
     "name": "SeokJun Bing",
     "iconUrl": "images/junb.jpg",
-    "url": "//junbing.me",
+    "url": "http://junbing.me",
     "message": "Awesome!",
     "lat_long": [
       35.666222,
