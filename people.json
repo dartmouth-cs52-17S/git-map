@@ -11,6 +11,17 @@
     "year": "'21"
   },
   {
+    "name": "Ruoni",
+    "iconUrl": "images/ruoni.jpg",
+    "url": "//zoew.me",
+    "message": "Hi I am excited to be in here!",
+    "lat_long": [
+      27.894504,
+      102.264449
+    ],
+    "year": "11BC"
+  },
+  {
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "url": "//www.zingweb.com",
@@ -109,6 +120,7 @@
     ],
     "year": "'19"
   },
+<<<<<<< f09be548974381f3f1670318357fc62555215ccd
   {
     "name": "Kevin",
     "iconUrl": "images/steph-curry.png",
@@ -208,6 +220,8 @@
     ],
     "year": "'16"
   },
+=======
+>>>>>>> Ruoni's icon added
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
