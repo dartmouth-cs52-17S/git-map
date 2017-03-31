@@ -219,6 +219,7 @@
     ],
     "year": "'18"
   },
+
   {
     "name": "Danielle",
     "iconUrl": "images/danielle.jpg",
@@ -230,6 +231,7 @@
     ],
     "year": "'16"
   },
+
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
@@ -428,6 +430,17 @@
     ],
     "year":"'17 MS"
 
+  },
+  {
+    "name": "Nathan",
+    "iconUrl": "images/nathan.jpg",
+    "url": "//nathanyu.me",
+    "message": "Hi! I'm Nathan",
+    "lat_long": [
+      35.222567,
+      -97.439478
+    ],
+    "year": "'19"
   }
 
 ]
