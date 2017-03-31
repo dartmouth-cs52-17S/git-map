@@ -198,6 +198,7 @@
      "year": "'17"
   },
   {
+
     "name": "Nick Moolenijzer",
     "iconUrl": "images/nickmoolenijzer.jpg",
     "url": "//www.basted.me",
@@ -452,6 +453,7 @@
       -87.722838
     ],
     "year": "'17"
+
   },
   {
     "name": "SamChing",
@@ -463,6 +465,7 @@
       103.8198
     ],
     "year": "'19"
+
   },
   {
     "name": "Matt",
@@ -474,5 +477,21 @@
       -79.995886
     ],
     "year": "'17"
+
+
+
+},
+  {
+    "name": "Barry",
+    "iconUrl": "images/barry.jpg",
+    "url": "//barryyang.me",
+    "message": "Let's hope this is me on Friday",
+    "lat_long": [
+			30.5931,
+			114.3054
+    ],
+    "year": "'18"
+
+
   }
 ]
