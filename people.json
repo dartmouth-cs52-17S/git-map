@@ -11,6 +11,17 @@
     "year": "'21"
   },
   {
+    "name": "Shirley Zhang",
+    "iconUrl": "images/shirley.jpg",
+    "url": "//theshirley.me",
+    "message": "don't forget about New Zealand:)",
+    "lat_long": [
+      -45.878760,
+      170.502798
+    ],
+    "year": "'19"
+  },
+  {
     "name": "Ruoni",
     "iconUrl": "images/ruoni.jpg",
     "url": "//zoew.me",
@@ -40,6 +51,17 @@
     "lat_long": [
       43.7022,
       -72.289
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Zach Schnell",
+    "iconUrl": "images/zachschnell.jpg",
+    "url": "//www.zachschnell.me",
+    "message": "Five things you won't believe about Rome",
+    "lat_long": [
+      41.9027,
+      12.4963
     ],
     "year": "'18"
   },
@@ -165,6 +187,17 @@
     "year": "'18"
   },
   {
+    "name": "Dami",
+    "iconUrl": "images/Dami.jpg",
+    "url": "http://dapoeso.me",
+    "message": "Ball is life",
+    "lat_long": [
+      2.1540,
+      34.6857
+    ],
+    "year": " '18"
+  },
+  {
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -175,7 +208,9 @@
     ],
     "year": "'17"
   },
-  {
+
+ {
+
     "name": "Byrne",
     "iconUrl": "images/byrne.jpg",
     "url": "http://broiled.me/",
@@ -187,6 +222,7 @@
      "year": "'17"
   },
   {
+
     "name": "Nick Moolenijzer",
     "iconUrl": "images/nickmoolenijzer.jpg",
     "url": "//www.basted.me",
@@ -197,6 +233,7 @@
     ],
     "year": "'17"
   },
+
   {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
@@ -220,13 +257,35 @@
     "year": "'16"
   },
   {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "http://stream1.gifsoup.com/view3/1588307/cute-puppy-o.gif",
+    "message": "You merely adopted the snow, I was born into it.",
+    "lat_long": [
+      44.6752,
+      -72.9238
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
-    "url": "https://media.giphy.com/media/DgLsbUL7SG3kI/giphy.gif",
-    "message": "I'm Mr. MeeSeeks",
+    "url": "http://samuellee.me",
+    "message": "Help I'm stuck in the wrong country",
     "lat_long": [
 			37.4947,
 			120.8466
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Mahnoor",
+    "iconUrl": "images/mahnoor.jpg",
+    "url": "//mahnoormaqsood.me",
+    "message": "HIIIIII",
+    "lat_long": [
+			24.861462,
+			67.009939
     ],
     "year": "'18"
   },
@@ -243,8 +302,8 @@
   },
   {
     "name": "Nitasha",
-    "iconUrl": "images/nitasha.jpg",
-    "url": "http://resizeimage.net/viewimg/itIlCZjophGpWjmn/3QqRI/20f86840a9b34ad5b5ecb43d56f283.gif",
+    "iconUrl": "images/Nitasha.jpg",
+    "url": "//nitashakochar.me",
     "message": "Bonjour",
     "lat_long": [
 			40.789142,
@@ -291,8 +350,8 @@
     "url": "http://emilyjlin.me",
     "message": "Am I on this map? Instructions unclear.",
     "lat_long": [
-      38.4947,
-			125.8466
+      32.776664,
+			-96.796988
     ],
     "year": "'18'"
   },
@@ -345,7 +404,7 @@
     "iconUrl": "images/irene.jpg",
     "url": "http://irenefeng.com",
     "message": "Existentialism is stupid",
-    "lat_long": [
+    "lat_long":[
       42.208731,
       -88.078125
     ],
@@ -374,15 +433,26 @@
     "year": "'19"
   },
   {
-  "name": "Nikita Shaiva",
-  "iconUrl": "images/nikita.jpg",
-  "url": "http://nikitashaiva.me",
-  "message": "Hi!",
-  "lat_long": [
-    40.669264,
-    -74.680400
-  ],
-  "year": "'18"
+    "name": "Nikita Shaiva",
+    "iconUrl": "images/nikita.jpg",
+    "url": "http://nikitashaiva.me",
+    "message": "Hi!",
+    "lat_long": [
+      40.669264,
+      -74.680400
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Nicole",
+    "iconUrl": "images/nicole.jpg",
+    "url": "//nikoruchen.me",
+    "message": "Hi!",
+    "lat_long": [
+      31.669264,
+      121.680400
+    ],
+    "year": "'19"
   },
   {
     "name": "Bill",
@@ -403,6 +473,107 @@
     "lat_long": [
 			34.052234,
 			-118.243685
+     ],
+    "year": "'19"
+  },
+  {
+    "name": "Allen (Chimian Wu)",
+    "iconUrl": "images/allenwu.png",
+    "url": "https://allen-wu.squarespace.com",
+    "message": "THIS is FUN!!",
+    "lat_long": [
+      29.068602,
+      119.649560
+    ],
+    "year":"'17 MS"
+  },
+  {
+    "name": "Nathan",
+    "iconUrl": "images/nathan.jpg",
+    "url": "//nathanyu.me",
+    "message": "Hi! I'm Nathan",
+    "lat_long": [
+      35.222567,
+      -97.439478
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Dylan Scandinaro",
+    "iconUrl": "images/dylan.jpg",
+    "url": "//dylanscandinaro.me",
+    "message": "Hello",
+    "lat_long": [
+      42.072251,
+      -87.722838
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Abby",
+    "iconUrl": "images/resize.jpg",
+    "url": "//starrabby.me",
+    "message": ";D",
+    "lat_long": [
+    44.131746,
+      -70.493156
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "SamChing",
+    "iconUrl": "images/samching.jpg",
+    "url": "//samching.me",
+    "message": "Yay,the Sunny Tiny Island of Singapore",
+    "lat_long": [
+      1.3521,
+      103.8198
+    ],
+    "year": "'19"
+
+  },
+  {
+    "name": "Matt",
+    "iconUrl": "images/mattgir.png",
+    "url": "http://mattgirouard.me",
+    "message": "Pitt",
+    "lat_long": [
+      40.440625,
+      -79.995886
+    ],
+    "year": "'17"
+  },
+  {
+    "name": "Barry",
+    "iconUrl": "images/barry.jpg",
+    "url": "//barryyang.me",
+    "message": "Let's hope this is me on Friday",
+    "lat_long": [
+	30.5931,
+	114.3054
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Sia",
+    "iconUrl": "images/sia.png",
+    "url": "http://siapeng.me",
+    "message": "Time for some snacks!",
+    "lat_long": [
+      49.282729,
+      -123.120738
+    ],
+    "year": "'20"
+  },
+  {
+	"name": "Ian",
+    "iconUrl": "images/marx_icon.jpg",
+    "url": "http://ianmarx.me",
+    "message": "Hi.",
+    "lat_long": [
+      42.213987,
+      -71.224499
+
     ],
     "year": "'19"
   }
