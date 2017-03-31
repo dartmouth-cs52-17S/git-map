@@ -452,6 +452,16 @@
       -87.722838
     ],
     "year": "'17"
+  },
+  {
+    "name": "SamChing",
+    "iconUrl": "images/samching.jpg",
+    "url": "//samching.me",
+    "message": "Yay,the Sunny Tiny Island of Singapore",
+    "lat_long": [
+      1.3521,
+      103.8198
+    ],
+    "year": "'19"
   }
-
 ]
