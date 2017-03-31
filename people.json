@@ -441,6 +441,17 @@
       -97.439478
     ],
     "year": "'19"
+  },
+  {
+    "name": "Dylan Scandinaro",
+    "iconUrl": "images/dylan.jpg",
+    "url": "//dylanscandinaro.me",
+    "message": "Hello",
+    "lat_long": [
+      42.072251,
+      -87.722838
+    ],
+    "year": "'17"
   }
 
 ]
