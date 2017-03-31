@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
 
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
@@ -35,6 +36,8 @@
   },
   {
 
+=======
+>>>>>>> dami_icon
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "url": "//www.zingweb.com",
@@ -145,6 +148,7 @@
     "year": "'19"
   },
   {
+<<<<<<< HEAD
 
     "name": "Kevin",
     "iconUrl": "images/steph-curry.png",
@@ -191,6 +195,19 @@
   },
   {
 
+=======
+    "name": "Dami",
+    "iconUrl": "images/Dami.jpg",
+    "url": "http://dapoeso.me",
+    "message": "Ball is life",
+    "lat_long": [
+      2.1540,
+      34.6857
+    ],
+    "year": " '18"
+  },
+  {
+>>>>>>> dami_icon
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
