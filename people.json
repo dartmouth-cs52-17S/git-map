@@ -516,7 +516,16 @@
     ],
     "year": "'20"
 
+
+  {
+	"name": "Ian",
+    "iconUrl": "images/marx_icon.jpg",
+    "url": "ianmarx.me",
+    "message": "Hi.",
+    "lat_long": [
+      42.213987,
+      -71.224499
+    ],
+    "year": "'19"
   }
-
-
 ]
