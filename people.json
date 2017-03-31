@@ -259,7 +259,7 @@
       -72.9238
     ],
     "year": "'18"
-  }
+  },
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
@@ -332,8 +332,8 @@
     "url": "http://emilyjlin.me",
     "message": "Am I on this map? Instructions unclear.",
     "lat_long": [
-      38.4947,
-			125.8466
+      32.776664,
+			-96.796988
     ],
     "year": "'18'"
   },
