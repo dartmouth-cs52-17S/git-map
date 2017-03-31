@@ -139,6 +139,7 @@
     "year": "'18"
   },
   {
+<<<<<<< HEAD
     "name": "Annie",
     "iconUrl": "images/annie.png",
     "url": "http://annieke.me",
@@ -161,6 +162,8 @@
     "year": "'18"
   }
   {
+=======
+>>>>>>> aff54c9fc803c262493b324bb736c5dd9fcb7f3e
     "name": "Allen (Chimian Wu)",
     "iconUrl": "images/allenwu.png",
     "url": "https://allen-wu.squarespace.com",
@@ -179,6 +182,17 @@
     "lat_long": [
       1.3521,
       103.8198
+    ],
+    "year": "'19"
+  }
+  {
+    "name": "Nathan",
+    "iconUrl": "images/nathan.jpg",
+    "url": "//nathanyu.me",
+    "message": "Hi! I'm Nathan",
+    "lat_long": [
+      35.222567,
+      -97.439478
     ],
     "year": "'19"
   }
