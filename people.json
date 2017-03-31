@@ -57,6 +57,17 @@
     "year": "'18"
   },
   {
+    "name": "Zach Schnell",
+    "iconUrl": "images/zachschnell.jpg",
+    "url": "//www.zachschnell.me",
+    "message": "Five things you won't believe about Rome",
+    "lat_long": [
+      41.9027,
+      12.4963
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Ahsan",
     "iconUrl": "images/ahsan.jpg",
     "url": "//www.ahsanazim.me",
