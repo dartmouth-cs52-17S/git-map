@@ -242,7 +242,6 @@
     "year": "'18"
   },
   {
-<<<<<<< HEAD
     "name": "Gurkaran",
     "iconUrl": "images/singh.jpg",
     "url": "//www.gurkaran.me",
@@ -397,6 +396,17 @@
   "year": "'18"
   },
   {
+  "name": "Nicole",
+  "iconUrl": "images/nicole.jpg",
+  "url": "//nikoruchen.me",
+  "message": "Hi!",
+  "lat_long": [
+    31.669264,
+    121.680400
+  ],
+  "year": "'19"
+  },
+  {
     "name": "Bill",
     "iconUrl": "images/bill.jpg",
     "url": "http://billtang05.me/",
@@ -406,7 +416,8 @@
 			125.5555
     ],
     "year": "'17"
-
+  },
+  {
     "name": "Allen (Chimian Wu)",
     "iconUrl": "images/allenwu.png",
     "url": "https://allen-wu.squarespace.com",
