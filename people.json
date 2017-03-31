@@ -272,6 +272,16 @@
     "year": "'18"
   },
   {
+    "name": "Mahnoor",
+    "iconUrl": "images/mahnoor.jpg",
+    "url": "//mahnoormaqsood.me",
+    "message": "HIIIIII",
+    "lat_long": [
+			24.861462,
+			67.009939
+    ],
+    "year": "'18"
+  }
     "name": "Gurkaran",
     "iconUrl": "images/singh.jpg",
     "url": "//www.gurkaran.me",
@@ -457,7 +467,6 @@
       119.649560
     ],
     "year":"'17 MS"
-
   },
   {
     "name": "Nathan",
