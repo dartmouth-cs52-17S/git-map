@@ -161,17 +161,6 @@
     "year": "'18"
   }
   {
-    "name": "SamChing",
-    "iconUrl": "images/samching.jpg",
-    "url": "//samching.me",
-    "message": "Yay,the Sunny Tiny Island of Singapore",
-    "lat_long": [
-      1.3521,
-      103.8198
-    ],
-    "year": "'19"
-  }
-  {
     "name": "Allen (Chimian Wu)",
     "iconUrl": "images/allenwu.png",
     "url": "https://allen-wu.squarespace.com",
@@ -181,5 +170,16 @@
       119.649560
     ],
     "year":"'17 MS"
+  }
+  {
+    "name": "SamChing",
+    "iconUrl": "images/samching.jpg",
+    "url": "//samching.me",
+    "message": "Yay,the Sunny Tiny Island of Singapore",
+    "lat_long": [
+      1.3521,
+      103.8198
+    ],
+    "year": "'19"
   }
 ]
