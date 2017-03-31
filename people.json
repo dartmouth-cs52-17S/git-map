@@ -227,7 +227,6 @@
     ],
     "year": "'18"
   },
-
   {
     "name": "Danielle",
     "iconUrl": "images/danielle.jpg",
@@ -239,7 +238,6 @@
     ],
     "year": "'16"
   },
-
   {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
@@ -247,7 +245,7 @@
     "message": "Help I'm stuck in the wrong country",
     "lat_long": [
 			37.4947,
-			-120.8466
+			120.8466
     ],
     "year": "'18"
   },
@@ -265,7 +263,7 @@
   {
     "name": "Nitasha",
     "iconUrl": "images/Nitasha.jpg",
-    "url": "nitashakochar.me",
+    "url": "//nitashakochar.me",
     "message": "Bonjour",
     "lat_long": [
 			40.789142,
@@ -395,26 +393,26 @@
     "year": "'19"
   },
   {
-  "name": "Nikita Shaiva",
-  "iconUrl": "images/nikita.jpg",
-  "url": "http://nikitashaiva.me",
-  "message": "Hi!",
-  "lat_long": [
-    40.669264,
-    -74.680400
-  ],
-  "year": "'18"
+    "name": "Nikita Shaiva",
+    "iconUrl": "images/nikita.jpg",
+    "url": "http://nikitashaiva.me",
+    "message": "Hi!",
+    "lat_long": [
+      40.669264,
+      -74.680400
+    ],
+    "year": "'18"
   },
   {
-  "name": "Nicole",
-  "iconUrl": "images/nicole.jpg",
-  "url": "//nikoruchen.me",
-  "message": "Hi!",
-  "lat_long": [
-    31.669264,
-    121.680400
-  ],
-  "year": "'19"
+    "name": "Nicole",
+    "iconUrl": "images/nicole.jpg",
+    "url": "//nikoruchen.me",
+    "message": "Hi!",
+    "lat_long": [
+      31.669264,
+      121.680400
+    ],
+    "year": "'19"
   },
   {
     "name": "Bill",
@@ -484,10 +482,7 @@
       -79.995886
     ],
     "year": "'17"
-
-
-
-},
+  },
   {
     "name": "Barry",
     "iconUrl": "images/barry.jpg",
@@ -498,7 +493,17 @@
 			114.3054
     ],
     "year": "'18"
-
+  },
+  {
+    "name": "Sia",
+    "iconUrl": "images/sia.png",
+    "url": "http://siapeng.me",
+    "message": "Time for some snacks!",
+    "lat_long": [
+      49.282729,
+      -123.120738
+    ],
+    "year": "'20"
 
   }
 
