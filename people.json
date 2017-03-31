@@ -1,5 +1,6 @@
 [
   {
+
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
@@ -33,6 +34,7 @@
     "year": "11BC"
   },
   {
+
     "name": "Tim",
     "iconUrl": "images/tim_round.jpg",
     "url": "//www.zingweb.com",
@@ -132,6 +134,7 @@
     "year": "'19"
   },
   {
+
     "name": "Kevin",
     "iconUrl": "images/steph-curry.png",
     "url": "http://kevmo.me",
@@ -176,6 +179,7 @@
     "year": "'18"
   },
   {
+
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -186,7 +190,9 @@
     ],
     "year": "'17"
   },
-  {
+
+ {
+
     "name": "Byrne",
     "iconUrl": "images/byrne.jpg",
     "url": "http://broiled.me/",
@@ -198,6 +204,7 @@
      "year": "'17"
   },
   {
+
     "name": "Nick Moolenijzer",
     "iconUrl": "images/nickmoolenijzer.jpg",
     "url": "//www.basted.me",
@@ -208,6 +215,7 @@
     ],
     "year": "'17"
   },
+
   {
     "name": "Kevin Farmer",
     "iconUrl": "images/kfarmer.jpg",
@@ -450,6 +458,7 @@
       -87.722838
     ],
     "year": "'17"
+
   },
   {
     "name": "SamChing",
@@ -461,6 +470,7 @@
       103.8198
     ],
     "year": "'19"
+
   },
   {
     "name": "Matt",
@@ -474,6 +484,17 @@
     "year": "'17"
   },
   {
+    "name": "Barry",
+    "iconUrl": "images/barry.jpg",
+    "url": "//barryyang.me",
+    "message": "Let's hope this is me on Friday",
+    "lat_long": [
+			30.5931,
+			114.3054
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Sia",
     "iconUrl": "images/sia.png",
     "url": "http://siapeng.me",
@@ -483,5 +504,8 @@
       -123.120738
     ],
     "year": "'20"
+
   }
+
+
 ]
