@@ -1,7 +1,5 @@
 [
   {
-<<<<<<< HEAD
-
     "name": "Froggy",
     "iconUrl": "images/froggy.jpg",
     "url": "//giphy.com/embed/QCpqmkDHVNde",
@@ -148,8 +146,6 @@
     "year": "'19"
   },
   {
-<<<<<<< HEAD
-
     "name": "Kevin",
     "iconUrl": "images/steph-curry.png",
     "url": "http://kevmo.me",
@@ -194,8 +190,6 @@
     "year": "'18"
   },
   {
-
-=======
     "name": "Dami",
     "iconUrl": "images/Dami.jpg",
     "url": "http://dapoeso.me",
@@ -207,7 +201,6 @@
     "year": " '18"
   },
   {
->>>>>>> dami_icon
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
