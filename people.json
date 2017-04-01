@@ -176,6 +176,17 @@
     "year": "17"
   },
   {
+    "name": "Joshua",
+    "iconUrl": "images/joshua_u.jpg",
+    "url": "//www.joshuautterback.me",
+    "message": "Hi!",
+    "lat_long": [
+      42.765366,
+      -71.467566
+    ],
+    "year": "'17'"
+  },
+  {
     "name": "Kooshul Jhaveri",
     "iconUrl": "images/koosh.jpg",
     "url": "//kooshul.me",
