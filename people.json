@@ -345,7 +345,6 @@
     "year": "'19"
   },
   {
-
     "name": "Annie",
     "iconUrl": "images/annie.png",
     "url": "http://annieke.me",
@@ -669,5 +668,17 @@
   113.751800
   ],
   "year": "'18'"
+},
+{
+  "name": "Jinnan Ge",
+  "iconUrl": "images/jinnan.jpg",
+  "url": "//cs52jinnan.me/",
+  "message": "Hello :)",
+  "lat_long": [
+    36.067108,
+    120.382609
+  ],
+  "year": "'16"
 }
+
 ]
