@@ -176,6 +176,17 @@
     "year": "17"
   },
   {
+    "name": "Joshua",
+    "iconUrl": "images/joshua_u.jpg",
+    "url": "//www.joshuautterback.me",
+    "message": "Hi!",
+    "lat_long": [
+      42.765366,
+      -71.467566
+    ],
+    "year": "'17'"
+  },
+  {
     "name": "Kooshul Jhaveri",
     "iconUrl": "images/koosh.jpg",
     "url": "//kooshul.me",
@@ -187,7 +198,17 @@
     "year": "'18"
   },
   {
-
+    "name": "Dami",
+    "iconUrl": "images/Dami.jpg",
+    "url": "http://dapoeso.me",
+    "message": "Ball is life",
+    "lat_long": [
+      2.1540,
+      34.6857
+    ],
+    "year": " '18"
+  },
+  {
     "name": "Ellis",
     "iconUrl": "images/ellisguo.jpg",
     "url": "//deepfried.me",
@@ -247,6 +268,17 @@
     "year": "'16"
   },
   {
+    "name": "Kevin Farmer",
+    "iconUrl": "images/kfarmer.jpg",
+    "url": "http://stream1.gifsoup.com/view3/1588307/cute-puppy-o.gif",
+    "message": "You merely adopted the snow, I was born into it.",
+    "lat_long": [
+      44.6752,
+      -72.9238
+    ],
+    "year": "'18"
+  },
+  {
     "name": "Sam",
     "iconUrl": "images/sam.jpg",
     "url": "http://samuellee.me",
@@ -254,6 +286,17 @@
     "lat_long": [
       22.8905,
       22.8905
+    ],
+    "year": "'18"
+  },
+  {
+    "name": "Mahnoor",
+    "iconUrl": "images/mahnoor.jpg",
+    "url": "//mahnoormaqsood.me",
+    "message": "HIIIIII",
+    "lat_long": [
+			24.861462,
+			67.009939
     ],
     "year": "'18"
   },
@@ -318,8 +361,8 @@
     "url": "http://emilyjlin.me",
     "message": "Am I on this map? Instructions unclear.",
     "lat_long": [
-      38.4947,
-			125.8466
+      32.776664,
+			-96.796988
     ],
     "year": "'18'"
   },
@@ -329,8 +372,8 @@
     "url": "http://kedeng.me",
     "message": "West coast, best coast",
     "lat_long": [
-      49.2827,
-      -123.1207
+      49.2838,
+      -122.7932
     ],
     "year": "'17"
   },
@@ -355,6 +398,21 @@
       -85.078125
     ],
     "year": "'17"
+
+
+},
+{
+
+    "name": "Jiachen",
+    "iconUrl": "images/jiachen.png",
+    "url": "//jiachenjiang.me",
+    "message": "I have no mouth but I must scream",
+    "lat_long": [
+			34.020289,
+			-117.865339
+    ],
+    "year": "'20"
+
   },
   {
     "name": "Eddy Orzsik",
@@ -434,6 +492,17 @@
     "year": "'17"
   },
   {
+    "name": "Kaitlyn",
+    "iconUrl": "images/kaitlyn.jpg",
+    "url": "//kaithahn.me",
+    "message": "Hi, I'm Kaitlyn",
+    "lat_long": [
+			34.052234,
+			-118.243685
+     ],
+    "year": "'19"
+  },
+  {
     "name": "Allen (Chimian Wu)",
     "iconUrl": "images/allenwu.png",
     "url": "https://allen-wu.squarespace.com",
@@ -443,7 +512,6 @@
       119.649560
     ],
     "year":"'17 MS"
-
   },
   {
     "name": "Nathan",
@@ -466,7 +534,17 @@
       -87.722838
     ],
     "year": "'17"
-
+  },
+  {
+    "name": "Abby",
+    "iconUrl": "images/resize.jpg",
+    "url": "//starrabby.me",
+    "message": ";D",
+    "lat_long": [
+    44.131746,
+      -70.493156
+    ],
+    "year": "'19"
   },
   {
     "name": "SamChing",
@@ -512,8 +590,40 @@
       -123.120738
     ],
     "year": "'20"
-
-  }
+  },
+  {
+	"name": "Ian",
+    "iconUrl": "images/marx_icon.jpg",
+    "url": "http://ianmarx.me",
+    "message": "Hi.",
+    "lat_long": [
+      42.213987,
+      -71.224499
+    ],
+    "year": "'19"
+  },
+  {
+    "name": "Justin",
+    "iconUrl": "images/justin_lee.jpg",
+    "url": "//jlee9595.me",
+    "message": "Message",
+    "lat_long": [
+			41.030853,
+			-73.578014
+    ],
+    "year": "'17"
+  },
+      {
+    "name": "Paul",
+    "iconUrl": "images/paulSp.jpg",
+    "url": "//pspankle.me",
+    "message": "it hurts when you click my face",
+    "lat_long": [
+      22.396428,
+      114.109497
+    ],
+    "year": "'18"
+  },
   {
     "name": "Justin Gualtieri",
     "iconUrl": "images/justingualtieri.png",
@@ -525,4 +635,59 @@
     ],
     "year": "'18"
   },
+  {
+"name": "Clement",
+"iconUrl": "images/cknn.jpg",
+"url": "http://kudakwashe.me/",
+"message": "Watsap!, how are you?",
+"lat_long": [
+  -17.825166,
+   31.03351
+],
+"year": "'17"
+},
+{
+  "name": "Pusheenicorn",
+  "iconUrl": "images/pusheenicorn.jpg",
+  "url": "//pusheenicorn.me",
+  "message": "Just rolling around here",
+  "lat_long": [
+    27.907058,
+    -38.847656
+  ],
+  "year": "'16"
+},
+{
+  "name": "Jun Suh",
+  "iconUrl": "images/jun.jpg",
+  "url": "//dongjunsuh.me",
+  "message": "Hi ;)",
+  "lat_long": [
+    -34.427812,
+    150.893061
+  ],
+  "year": "'17'"
+},
+{
+  "name": "Ying Liu",
+  "iconUrl": "images/ying.jpg",
+  "url": "//yingliu.me",
+  "message": "Hey! :D",
+  "lat_long": [
+    23.020673,
+  113.751800
+  ],
+  "year": "'18'"
+},
+{
+  "name": "Jinnan Ge",
+  "iconUrl": "images/jinnan.jpg",
+  "url": "//cs52jinnan.me/",
+  "message": "Hello :)",
+  "lat_long": [
+    36.067108,
+    120.382609
+  ],
+  "year": "'16"
+}
 ]
