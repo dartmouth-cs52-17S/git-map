@@ -597,5 +597,18 @@
       114.109497
     ],
     "year": "'18"
-  }
+  },
+
+  {
+"name": "Clement",
+"iconUrl": "ckkn.jpg",
+"url": "kudakwashe.me",
+"message": "Watsap!, how are you?",
+"lat_long": [
+  -17.825166,
+   31.03351
+],
+"year": "'17"
+}
+
 ]
