@@ -631,5 +631,17 @@
     150.893061
   ],
   "year": "'17'"
+},
+{
+  "name": "Ying Liu",
+  "iconUrl": "images/ying.jpg",
+  "url": "//yingliu.me",
+  "message": "Hey! :D",
+  "lat_long": [
+    23.020673,
+  113.751800
+  ],
+  "year": "'18'"
 }
+
 ]
