@@ -284,8 +284,8 @@
     "url": "http://samuellee.me",
     "message": "Help I'm stuck in the wrong country",
     "lat_long": [
-			37.4947,
-			120.8466
+      22.8905,
+      22.8905
     ],
     "year": "'18"
   },
@@ -624,7 +624,17 @@
     ],
     "year": "'18"
   },
-
+  {
+    "name": "Justin Gualtieri",
+    "iconUrl": "images/justingualtieri.png",
+    "url": "//justingualtieri.me",
+    "message": "Long live the motherland",
+    "lat_long": [
+      55.7558,
+      37.6173
+    ],
+    "year": "'18"
+  },
   {
 "name": "Clement",
 "iconUrl": "images/cknn.jpg",
@@ -680,5 +690,4 @@
   ],
   "year": "'16"
 }
-
 ]
