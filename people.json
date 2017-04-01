@@ -345,6 +345,7 @@
     "year": "'19"
   },
   {
+
     "name": "Annie",
     "iconUrl": "images/annie.png",
     "url": "http://annieke.me",
@@ -398,6 +399,20 @@
       -85.078125
     ],
     "year": "'17"
+<<<<<<< HEAD
+},
+{
+
+    "name": "Jiachen",
+    "iconUrl": "images/jiachen.png",
+    "url": "//jiachenjiang.me",
+    "message": "I have no mouth but I must scream",
+    "lat_long": [
+			34.020289,
+			-117.865339
+    ],
+    "year": "'20"
+
   },
   {
     "name": "Eddy Orzsik",
@@ -655,4 +670,5 @@
   "year": "'18'"
 }
 
+>>>>>>> c74f0e37181696c7ef39f6b2762eb47fe4453bf0
 ]
