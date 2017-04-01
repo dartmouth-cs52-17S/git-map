@@ -620,5 +620,16 @@
     -38.847656
   ],
   "year": "'16"
+},
+{
+  "name": "Jun Suh",
+  "iconUrl": "images/jun.jpg",
+  "url": "//dongjunsuh.me",
+  "message": "Hi ;)",
+  "lat_long": [
+    -34.427812,
+    150.893061
+  ],
+  "year": "'17'"
 }
 ]
