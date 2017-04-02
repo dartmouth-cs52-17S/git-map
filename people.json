@@ -700,5 +700,16 @@
     126.977969
   ],
   "year": "'19"
+},
+{
+  "name": "John Brady",
+  "iconUrl": "images/johnbrady.jpg",
+  "url": "//johnbrady.me/",
+  "message": "Hi!",
+  "lat_long": [
+    34.052234,
+    -118.243685
+  ],
+  "year": "'18"
 }
 ]
