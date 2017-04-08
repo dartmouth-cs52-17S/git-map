@@ -722,5 +722,16 @@
     -118.243685
   ],
   "year": "'18"
+},
+{
+  "name": "Tao Peter Wang",
+  "iconUrl": "images/tpwang.jpg",
+  "url": "//taopeterwang.me/",
+  "message": "No message for you",
+  "lat_long": [
+    31.263360,
+    120.611633
+  ],
+  "year": "Dual Degree"
 }
 ]
